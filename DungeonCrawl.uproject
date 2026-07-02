@@ -18,6 +18,10 @@
 		{
 			"Name": "ColorCorrectRegions",
 			"Enabled": true
+		},
+		{
+			"Name": "MultiUserClient",
+			"Enabled": true
 		}
 	]
 }
